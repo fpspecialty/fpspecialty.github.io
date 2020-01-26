@@ -113,7 +113,7 @@ viewEvent_ { sticker, available } (Event event) =
     section
         [ css
             [ marginRight (px 32)
-            , width (px 315)
+            , width (px 300)
             , fontSize (px 13)
             ]
         ]
@@ -123,7 +123,7 @@ viewEvent_ { sticker, available } (Event event) =
                     [ availabilityStyle
                     , regularShadow
                     , maxHeight (px 200)
-                    , maxWidth (px 315)
+                    , maxWidth (px 300)
                     , borderRadius (px 3)
                     , marginTop (Css.em 2)
                     ]
