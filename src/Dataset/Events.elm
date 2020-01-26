@@ -21,7 +21,7 @@ knownEvents =
         , shortDescription = ""
         , title = "FP Specialty 7"
         , registrationUrl = "https://leader-id.ru/event/38170/"
-        , cover = Just "nsk.7.webp"
+        , cover = Just "nsk_7.webp"
         , level = Level3
         , isOpen = False
         , location = Offline Novosibirsk { time = 0, place = "" }
@@ -41,7 +41,7 @@ knownEvents =
         , shortDescription = ""
         , title = "FP Specialty 6"
         , registrationUrl = "https://leader-id.ru/event/32834"
-        , cover = Just "nsk.6.webp"
+        , cover = Just "nsk_6.webp"
         , level = Level3
         , isOpen = False
         , location = Offline Novosibirsk { time = 0, place = "" }
@@ -51,7 +51,7 @@ knownEvents =
         , shortDescription = ""
         , title = "FP Specialty 5"
         , registrationUrl = "https://leader-id.ru/event/28368/"
-        , cover = Just "nsk.5.webp"
+        , cover = Just "nsk_5.webp"
         , level = Level3
         , isOpen = False
         , location = Offline Novosibirsk { time = 0, place = "" }
@@ -61,7 +61,7 @@ knownEvents =
         , shortDescription = ""
         , title = "FP Specialty 4"
         , registrationUrl = "https://leader-id.ru/event/28481/"
-        , cover = Just "nsk.4.webp"
+        , cover = Just "nsk_4.webp"
         , level = Level3
         , isOpen = False
         , location = Offline Novosibirsk { time = 0, place = "" }
@@ -71,7 +71,7 @@ knownEvents =
         , shortDescription = ""
         , title = "FP Specialty 3"
         , registrationUrl = "https://leader-id.ru/event/28479/"
-        , cover = Just "nsk.3.webp"
+        , cover = Just "nsk_3.webp"
         , level = Level3
         , isOpen = False
         , location = Offline Novosibirsk { time = 0, place = "" }
@@ -81,7 +81,7 @@ knownEvents =
         , shortDescription = ""
         , title = "FP Specialty 2"
         , registrationUrl = "https://www.meetup.com/fpspecialty_nsk/events/263680809/"
-        , cover = Just "nsk.2.webp"
+        , cover = Just "nsk_2.webp"
         , level = Level3
         , isOpen = False
         , location = Offline Novosibirsk { time = 0, place = "" }
@@ -91,7 +91,7 @@ knownEvents =
         , shortDescription = ""
         , title = "FP Specialty 1"
         , registrationUrl = "https://www.meetup.com/fpspecialty_nsk/events/263679831/"
-        , cover = Just "nsk.1.webp"
+        , cover = Just "nsk_1.webp"
         , level = Level3
         , isOpen = False
         , location = Offline Novosibirsk { time = 0, place = "" }
