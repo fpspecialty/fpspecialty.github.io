@@ -26,7 +26,7 @@ type Event
 
 defaultCover : String
 defaultCover =
-    "default_cover.png"
+    "default_cover.webp"
 
 
 type Level
