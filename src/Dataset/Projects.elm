@@ -18,6 +18,7 @@ projects =
             , Contributor "Vladimir Nizamutdinov" "https://github.com/astartes91"
             , Contributor "BanyRule" "https://github.com/banyrule"
             , Contributor "AntonShtyrkin" "https://github.com/AntonShtyrkin"
+            , Contributor "Erdemus" "https://github.com/Erdemus"
             , Contributor "остальные участники" "https://github.com/fpspecialty/scala-with-cats-ru/graphs/contributors"
             ]
         }
