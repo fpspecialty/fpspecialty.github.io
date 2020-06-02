@@ -73,7 +73,7 @@ view geo _ events =
         [ article [ css [ innerContainer ] ]
             [ header2 [] [ text__ "Мероприятия" ]
             , splitDescription
-            , textLink [ href "https://www.meetup.com/fpspecialty_nsk/events/", targetBlank, noOpener ] [ text__ "Все предстоящие мероприятий" ]
+            , textLink [ href "https://www.meetup.com/fpspecialty_nsk/events/", targetBlank, noOpener ] [ text__ "Все предстоящие мероприятия" ]
             -- , events
                -- |> stableSortWith eventOrdering
                -- |> List.map (viewEvent geo)
